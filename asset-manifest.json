@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Formulator-Site/static/css/main.8fbb8e16.chunk.css",
+    "main.js": "/Formulator-Site/static/js/main.507dc89e.chunk.js",
+    "main.js.map": "/Formulator-Site/static/js/main.507dc89e.chunk.js.map",
+    "runtime-main.js": "/Formulator-Site/static/js/runtime-main.55a38f45.js",
+    "runtime-main.js.map": "/Formulator-Site/static/js/runtime-main.55a38f45.js.map",
+    "static/js/2.dfa13c41.chunk.js": "/Formulator-Site/static/js/2.dfa13c41.chunk.js",
+    "static/js/2.dfa13c41.chunk.js.map": "/Formulator-Site/static/js/2.dfa13c41.chunk.js.map",
+    "index.html": "/Formulator-Site/index.html",
+    "static/css/main.8fbb8e16.chunk.css.map": "/Formulator-Site/static/css/main.8fbb8e16.chunk.css.map",
+    "static/js/2.dfa13c41.chunk.js.LICENSE.txt": "/Formulator-Site/static/js/2.dfa13c41.chunk.js.LICENSE.txt",
+    "static/media/Cubo.070ba8ea.jpeg": "/Formulator-Site/static/media/Cubo.070ba8ea.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.55a38f45.js",
+    "static/js/2.dfa13c41.chunk.js",
+    "static/css/main.8fbb8e16.chunk.css",
+    "static/js/main.507dc89e.chunk.js"
+  ]
+}
